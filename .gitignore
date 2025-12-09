@@ -1,0 +1,18 @@
+# Dataset (audio files stored on HuggingFace)
+dataset/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp

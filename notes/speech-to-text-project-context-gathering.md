@@ -1,0 +1,31 @@
+# Speech-to-Text Project Context Gathering
+
+> The user documents project context by recording voice notes. This particular voice note is about how to effectively benchmark the user's speech pace and environmental audio interference for speech-to-text recognition.
+
+*Transcribed: 9 Dec 2025 16:17*
+
+---
+
+Okay, so just following the pattern that I've done lately of recording voice notes to document or gather efficiently context about specific projects. These are all little components of a larger project that I'm working on with speech, but nevertheless, they're very relevant.
+
+As I always assume someone has done, someone has done all these experiments, right, and gathered this data, and sometimes I find, "Oh, wait, no one has. That's really cool. I can try it out." So a couple of the things that I wonder from when I'm using speech-to-text recognition every day, as I keep mentioning for the past year, is, well, there's a few things:
+
+### Factors Influencing Speech-to-Text Accuracy
+
+How your speaking pace: To what extent does that influence the accuracy? Sometimes, I mean, I tend to speak at sort of this pace approximately, but sometimes I've been, well, why don't I just speak a bit quicker and I get information, you know. And it makes me wonder, of course, we can just ask ChatGPT these questions nowadays, how much does your speaking pace affect WER accuracy, but I thought it'd be useful to try to actually get objective data on that through a benchmark. So what I'm going to do is I've just generated with Claude three source truth texts, I think.
+
+Probably only one is ideal. So I'm just going to do one for the moment, but just in case there's something useful that I want to move beyond one data point for, I can use those other texts. But the first one here, which is just called "technology", is fairly bland and mundane, but decent enough, I would say, in terms of things I might be dictating. The only difference, significant difference I see really, is that when you're using a source truth like this, this clearly isn't something I would just, you know, I wouldn't off the cuff start speaking, "The rapid advancement of artificial intelligence." So it's preformatted or polished text.
+
+And it's not like, "I need to buy eggs, maybe a six pack of beer", right? Which is how when we speak naturally, we don't work from a script. So that's the only thing that when I'm doing these evaluations, I think, is it worth looking at those two, looking at natural versus prepared text, but for the sake of simplicity, I'm just going to work with this one.
+
+And my original back of the envelope test was to see, okay, if I read this paragraph at a normal pace, really, really fast, like I was on a combination of Red Bull and other substances, how would that, what are we going to get for accuracy? And then, conversely, if I speak really painfully slowly, is that actually going to work against me? Because I'm giving, I've added a lot of silences between words, which is going to kind of make it hard for the ASR to infer punctuation, and it's giving, it's giving the VAD (voice activity detection) a good run for its money because you're getting a lot of silences that aren't intended as silences there between words. So that's another thing I'm very interested in. A lot of people would assume, well, hang on, if I just speak more slowly, it's going to make the work easier. And it'll be interesting to see if I, if the, if we can truly prove what ChatGPT claims, that that's actually not the case. You actually want to probably just go for like a normal speaking speech.
+
+### Evaluating External Audio Interference
+
+The second thing that I was planning on doing a proper evaluation for, and I think it's actually easier, what I was going to do was annotate my voice notes, which are recorded here, there, and everywhere. And would give lots of scope for saying, well, there was a huge, there was a very noisy background conversation here, there was someone was jackhammering here. I have abundant examples of all of those. And what I thought I would do instead is that's going to take such a long time to go through that I'm probably never going to do it.
+
+Why not just play in the background. I have these nice studio speakers that are actually very loud. Why not just play? It's going to be simulated of course. Play a YouTube track of someone jackhammering. And I'm going to then record, then record the voice samples there to just be kind of simulations. It won't be obviously quite as good, but I'm really just interested here in just a very, very broad. The words per minute one is interesting. The microphone I covered in a separate test, i.e., to what extent does using your studio microphone versus your phone microphone? And really what I'm interested in for my app and for, I would say in general, is a composite of all of these answers.
+
+Okay, what do we know about microphone, audio conditions, speaking rate, and then from that we can get very actionable information. Yes, of course in an ideal world, you're speaking into a professional microphone in a very quiet home environment, and at a normal pace, enunciating clearly. But if we had to move that into the real world, which of these variables do we want to control against? The one thing that for my test that I can't really do is wind. And what I might actually do, there happens to be a big storm on the way here, which means it's going to get very windy tomorrow if the forecasts are correct.
+
+The reason I say I can't do wind is because wind from videography isn't just a sound, it's an actual physical pressure on the capsule, and I can't simulate that through just playing, playing a, you know, a track I might find on YouTube of really windy environment. Maybe arguably the other one's rain kind of falls into that category too. Anything where you've got physically in addition to the noise, you're going to have literally a kinetic movement. So that one I might just initially do synthetically and then try to capture something where I'll actually just go out with my phone tomorrow and read this delightful text in whatever wind they're forecasting. So that's the objective here, and now I will create a few recordings.

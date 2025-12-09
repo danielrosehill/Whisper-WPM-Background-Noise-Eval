@@ -1,0 +1,92 @@
+{
+  "timestamp": "20251209_201142",
+  "total_recordings": 40,
+  "avg_wer": 0.009720937403638606,
+  "avg_cer": 0.003667112658924753,
+  "min_wer": 0.0,
+  "max_wer": 0.028985507246376812,
+  "by_pace": {
+    "unknown": {
+      "count": 1,
+      "avg_wer": 0.0
+    },
+    "weird_voices": {
+      "count": 3,
+      "avg_wer": 0.007194984068249563
+    },
+    "slow": {
+      "count": 3,
+      "avg_wer": 0.007246376811594203
+    },
+    "fast": {
+      "count": 3,
+      "avg_wer": 0.009559050262102992
+    },
+    "whispered": {
+      "count": 3,
+      "avg_wer": 0.0024154589371980675
+    },
+    "normal": {
+      "count": 23,
+      "avg_wer": 0.011911944120446716
+    },
+    "quick": {
+      "count": 3,
+      "avg_wer": 0.011871723712611778
+    },
+    "loud": {
+      "count": 1,
+      "avg_wer": 0.0
+    }
+  },
+  "by_background": {
+    "unknown": {
+      "count": 1,
+      "avg_wer": 0.0
+    },
+    "none": {
+      "count": 20,
+      "avg_wer": 0.008225408572309589
+    },
+    "cafe": {
+      "count": 1,
+      "avg_wer": 0.007246376811594203
+    },
+    "convo_mixed": {
+      "count": 1,
+      "avg_wer": 0.007246376811594203
+    },
+    "music": {
+      "count": 3,
+      "avg_wer": 0.00966183574879227
+    },
+    "honking": {
+      "count": 1,
+      "avg_wer": 0.007246376811594203
+    },
+    "baby": {
+      "count": 1,
+      "avg_wer": 0.007246376811594203
+    },
+    "dogs": {
+      "count": 1,
+      "avg_wer": 0.014492753623188406
+    },
+    "siren": {
+      "count": 1,
+      "avg_wer": 0.028985507246376812
+    },
+    "convo_other": {
+      "count": 8,
+      "avg_wer": 0.011756090040086339
+    },
+    "convo_same": {
+      "count": 1,
+      "avg_wer": 0.0070921985815602835
+    },
+    "transit": {
+      "count": 1,
+      "avg_wer": 0.021739130434782608
+    }
+  }
+}

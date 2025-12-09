@@ -1,0 +1,797 @@
+[
+  {
+    "id": "0587",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {},
+    "duration_seconds": 59.96,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.0,
+      "cer": 0.0,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "3cdc",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "weird_voices",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 59.27,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand the limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.002008032128514056,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "6ba5",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "weird_voices",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 61.59,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible, yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations, limit and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry. today",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.006024096385542169,
+      "reference_words": 138,
+      "hypothesis_words": 139
+    }
+  },
+  {
+    "id": "7951",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "slow",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 68.67,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible, yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, However, this technological progress also raises important questions about privacy, bias and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.021739130434782608,
+      "cer": 0.029116465863453816,
+      "reference_words": 138,
+      "hypothesis_words": 137
+    }
+  },
+  {
+    "id": "be48",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "fast",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 43.99,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyse vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand the limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.014492753623188406,
+      "cer": 0.0030120481927710845,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "c914",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "whispered",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 53.66,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives, from voice assistants that understand natural language to recommendation systems that predict our preferences. Machine learning algorithms have become visible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.002008032128514056,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "ce51",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "whispered",
+      "mic_distance": "far",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 51.81,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy bias and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.0,
+      "cer": 0.0,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "d124",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "cafe",
+      "notes": null
+    },
+    "duration_seconds": 52.2,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.001004016064257028,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "e1c9",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "convo_mixed",
+      "notes": "Babble preset https://mynoise.net/NoiseMachines/cafeRestaurantNoiseGenerator.php"
+    },
+    "duration_seconds": 51.93,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.001004016064257028,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "fc73",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "quick",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 51.42,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems have become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.0050200803212851405,
+      "reference_words": 138,
+      "hypothesis_words": 139
+    }
+  },
+  {
+    "id": "1dbd",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "music",
+      "notes": "used classical (replicate generation)"
+    },
+    "duration_seconds": 54.45,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.001004016064257028,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "b25a",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "music",
+      "notes": "EDM no vocals"
+    },
+    "duration_seconds": 56.18,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.001004016064257028,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "5220",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "honking",
+      "notes": null
+    },
+    "duration_seconds": 53.62,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.001004016064257028,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "1621",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "baby",
+      "notes": null
+    },
+    "duration_seconds": 54.14,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.001004016064257028,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "c2e8",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "dogs",
+      "notes": null
+    },
+    "duration_seconds": 53.04,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyse vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.014492753623188406,
+      "cer": 0.002008032128514056,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "6ae0",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "siren",
+      "notes": null
+    },
+    "duration_seconds": 53.39,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyse vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human employment. systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.028985507246376812,
+      "cer": 0.008032128514056224,
+      "reference_words": 138,
+      "hypothesis_words": 136
+    }
+  },
+  {
+    "id": "02b1",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "music",
+      "notes": "Onion in the pan! Suno generation wtih lyrics"
+    },
+    "duration_seconds": 56.88,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyzed vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.014492753623188406,
+      "cer": 0.002008032128514056,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "7acb",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "whispered",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 53.73,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web, rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.0,
+      "cer": 0.0,
+      "reference_words": 141,
+      "hypothesis_words": 141
+    }
+  },
+  {
+    "id": "67bb",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 54.25,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.0,
+      "cer": 0.0,
+      "reference_words": 141,
+      "hypothesis_words": 141
+    }
+  },
+  {
+    "id": "8e25",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "slow",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 71.45,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.0,
+      "cer": 0.0,
+      "reference_words": 141,
+      "hypothesis_words": 141
+    }
+  },
+  {
+    "id": "0d8d",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "fast",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 44.7,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams went their way between moss-covered rocks, carrying fresh water to countless organisms that depended on flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.014184397163120567,
+      "cer": 0.009564293304994687,
+      "reference_words": 141,
+      "hypothesis_words": 140
+    }
+  },
+  {
+    "id": "6053",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "fast",
+      "mic_distance": "normal",
+      "background_noise": "convo_other",
+      "notes": "Spanish (YouTube)"
+    },
+    "duration_seconds": 55.12,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.0,
+      "cer": 0.0,
+      "reference_words": 141,
+      "hypothesis_words": 141
+    }
+  },
+  {
+    "id": "7a82",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "convo_other",
+      "notes": "Background: Arabic (Al Jazeera live via YouTube)"
+    },
+    "duration_seconds": 52.65,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.0070921985815602835,
+      "cer": 0.005313496280552604,
+      "reference_words": 141,
+      "hypothesis_words": 140
+    }
+  },
+  {
+    "id": "0cc5",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "convo_same",
+      "notes": "Background: English live news channel on YouTube. Accent: American"
+    },
+    "duration_seconds": 55.35,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giant above. Streams wound their way between moss-covered rocks carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.0070921985815602835,
+      "cer": 0.0010626992561105207,
+      "reference_words": 141,
+      "hypothesis_words": 141
+    }
+  },
+  {
+    "id": "265d",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "convo_other",
+      "notes": "background: Korean news live via YouTube"
+    },
+    "duration_seconds": 55.56,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyse vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human unemployment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.021739130434782608,
+      "cer": 0.004016064257028112,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "471e",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "convo_other",
+      "notes": "Background: news (YouTube). Accent: Irish"
+    },
+    "duration_seconds": 55.93,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.001004016064257028,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "2ac3",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "transit",
+      "notes": "YouTube: airport background sound (American)"
+    },
+    "duration_seconds": 52.65,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyse vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approval to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.021739130434782608,
+      "cer": 0.0030120481927710845,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "d0d0",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "convo_other",
+      "notes": "Japanese news (live)"
+    },
+    "duration_seconds": 54.03,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voices systems that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyse vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.028985507246376812,
+      "cer": 0.009036144578313253,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "a15b",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "convo_other",
+      "notes": "Background audio - Mandarin"
+    },
+    "duration_seconds": 51.67,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human employment. As AI systems become more more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.014492753623188406,
+      "cer": 0.006024096385542169,
+      "reference_words": 138,
+      "hypothesis_words": 139
+    }
+  },
+  {
+    "id": "c919",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "convo_other",
+      "notes": "Mandarian news"
+    },
+    "duration_seconds": 52.18,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.001004016064257028,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "2207",
+    "sample": "sample_01_technology",
+    "sample_file": "sample_01_technology.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "convo_other",
+      "notes": "TVB news (Cantonese)"
+    },
+    "duration_seconds": 53.85,
+    "transcription": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnosis, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "reference": "The rapid advancement of artificial intelligence has transformed how we interact with technology in our daily lives. From voice assistants that understand natural language to recommendation systems that predict our preferences, machine learning algorithms have become invisible yet essential components of modern existence. These systems analyze vast amounts of data to identify patterns that would be impossible for humans to detect manually. However, this technological progress also raises important questions about privacy, bias, and the future of human employment. As AI systems become more capable, society must grapple with ethical considerations about transparency and accountability. The decisions these algorithms make can affect everything from loan approvals to medical diagnoses, making it crucial that we understand their limitations and potential blind spots. Balancing innovation with responsible development remains one of the most significant challenges facing the technology industry today.",
+    "metrics": {
+      "wer": 0.007246376811594203,
+      "cer": 0.001004016064257028,
+      "reference_words": 138,
+      "hypothesis_words": 138
+    }
+  },
+  {
+    "id": "dd69",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 49.83,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its tiring trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web, rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.0070921985815602835,
+      "cer": 0.003188097768331562,
+      "reference_words": 141,
+      "hypothesis_words": 141
+    }
+  },
+  {
+    "id": "dd63",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "quick",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 43.17,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to count as organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web, rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.014184397163120567,
+      "cer": 0.003188097768331562,
+      "reference_words": 141,
+      "hypothesis_words": 142
+    }
+  },
+  {
+    "id": "4f14",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "quick",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 48.76,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks carrying freshwater to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.014184397163120567,
+      "cer": 0.0010626992561105207,
+      "reference_words": 141,
+      "hypothesis_words": 140
+    }
+  },
+  {
+    "id": "fad9",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "slow",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 58.88,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy, while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.0,
+      "cer": 0.0,
+      "reference_words": 141,
+      "hypothesis_words": 141
+    }
+  },
+  {
+    "id": "0502",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "loud",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": "spoken a little loudly"
+    },
+    "duration_seconds": 49.33,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.0,
+      "cer": 0.0,
+      "reference_words": 141,
+      "hypothesis_words": 141
+    }
+  },
+  {
+    "id": "d799",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "weird_voices",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 51.98,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web, rather than in isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.0070921985815602835,
+      "cer": 0.003188097768331562,
+      "reference_words": 141,
+      "hypothesis_words": 142
+    }
+  },
+  {
+    "id": "8769",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": "Exaggerated narrative style, longer pauses between sentences"
+    },
+    "duration_seconds": 67.42,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water, to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that operates as an interconnected web rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.014184397163120567,
+      "cer": 0.015940488841657812,
+      "reference_words": 141,
+      "hypothesis_words": 141
+    }
+  },
+  {
+    "id": "8aa1",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": "Very irregular intonation and erratic speed"
+    },
+    "duration_seconds": 65.74,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy, while small creatures rustled through the undergrowth below. This system had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web of rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.014184397163120567,
+      "cer": 0.006376195536663124,
+      "reference_words": 141,
+      "hypothesis_words": 142
+    }
+  },
+  {
+    "id": "e8a7",
+    "sample": "sample_02_nature",
+    "sample_file": "sample_02_nature.txt",
+    "annotations": {
+      "pace": "normal",
+      "mic_distance": "normal",
+      "background_noise": "none",
+      "notes": null
+    },
+    "duration_seconds": 50.67,
+    "transcription": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams went their way between covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web, rather than isolated individuals competing for survival.",
+    "reference": "The ancient forest stretched endlessly toward the horizon, its towering trees forming a cathedral of green that filtered the morning sunlight into soft golden beams. Birds called to one another across the canopy while small creatures rustled through the undergrowth below. This ecosystem had existed for thousands of years, each species playing its vital role in maintaining the delicate balance of life. The forest floor was carpeted with fallen leaves that decomposed slowly, returning nutrients to the soil that fed the roots of giants above. Streams wound their way between moss-covered rocks, carrying fresh water to countless organisms that depended on their flow. Scientists have discovered that forests like this one communicate through underground fungal networks, sharing resources and warning signals between trees. These findings remind us that nature operates as an interconnected web rather than isolated individuals competing for survival.",
+    "metrics": {
+      "wer": 0.014184397163120567,
+      "cer": 0.007438894792773645,
+      "reference_words": 141,
+      "hypothesis_words": 141
+    }
+  }
+]
