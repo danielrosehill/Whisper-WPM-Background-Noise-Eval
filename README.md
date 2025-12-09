@@ -4,6 +4,8 @@ A "back of the envelope" evaluation intended to answer two questions I have abou
 
 **Dataset**: [danielrosehill/ASR-WPM-And-Background-Noise-Eval](https://huggingface.co/datasets/danielrosehill/ASR-WPM-And-Background-Noise-Eval)
 
+**[View Evaluation Results](RESULTS.md)** - Full tabulated results sorted by Word Error Rate | **[Download CSV](results.csv)**
+
 
 
 ## Purpose

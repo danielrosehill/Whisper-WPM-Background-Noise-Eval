@@ -1,0 +1,41 @@
+id,source_text,pace,mic_distance,background_noise,duration_sec,word_count,wpm,wer,cer,notes
+0587,sample_01_technology,,,,,138,138,0.0000,0.0000,
+ce51,sample_01_technology,whispered,far,none,51.81,138,160,0.0000,0.0000,
+7acb,sample_02_nature,whispered,normal,none,53.73,141,157,0.0000,0.0000,
+67bb,sample_02_nature,normal,normal,none,54.25,141,156,0.0000,0.0000,
+8e25,sample_02_nature,slow,normal,none,71.45,141,118,0.0000,0.0000,
+6053,sample_02_nature,fast,normal,convo_other,55.12,141,153,0.0000,0.0000,Spanish (YouTube)
+fad9,sample_02_nature,slow,normal,none,58.88,141,144,0.0000,0.0000,
+0502,sample_02_nature,loud,normal,none,49.33,141,172,0.0000,0.0000,spoken a little loudly
+3cdc,sample_01_technology,weird_voices,normal,none,59.27,138,140,0.0072,0.0020,
+6ba5,sample_01_technology,weird_voices,normal,none,61.59,138,134,0.0072,0.0060,
+c914,sample_01_technology,whispered,normal,none,53.66,138,154,0.0072,0.0020,
+d124,sample_01_technology,normal,normal,cafe,52.20,138,159,0.0072,0.0010,
+e1c9,sample_01_technology,normal,normal,convo_mixed,51.93,138,159,0.0072,0.0010,Babble preset
+fc73,sample_01_technology,quick,normal,none,51.42,138,161,0.0072,0.0050,
+1dbd,sample_01_technology,normal,normal,music,54.45,138,152,0.0072,0.0010,classical (replicate generation)
+b25a,sample_01_technology,normal,normal,music,56.18,138,147,0.0072,0.0010,EDM no vocals
+5220,sample_01_technology,normal,normal,honking,53.62,138,154,0.0072,0.0010,
+1621,sample_01_technology,normal,normal,baby,54.14,138,153,0.0072,0.0010,
+471e,sample_01_technology,normal,normal,convo_other,55.93,138,148,0.0072,0.0010,Irish accent; news background
+c919,sample_01_technology,normal,normal,convo_other,52.18,138,159,0.0072,0.0010,Mandarin news
+2207,sample_01_technology,normal,normal,convo_other,53.85,138,154,0.0072,0.0010,TVB news (Cantonese)
+7a82,sample_02_nature,normal,normal,convo_other,52.65,141,161,0.0071,0.0053,Arabic (Al Jazeera live)
+0cc5,sample_02_nature,normal,normal,convo_same,55.35,141,153,0.0071,0.0011,English live news (American)
+dd69,sample_02_nature,normal,normal,none,49.83,141,170,0.0071,0.0032,
+d799,sample_02_nature,weird_voices,normal,none,51.98,141,163,0.0071,0.0032,
+0d8d,sample_02_nature,fast,normal,none,44.70,141,189,0.0142,0.0096,
+dd63,sample_02_nature,quick,normal,none,43.17,141,196,0.0142,0.0032,
+4f14,sample_02_nature,quick,normal,none,48.76,141,174,0.0142,0.0011,
+8769,sample_02_nature,normal,normal,none,67.42,141,126,0.0142,0.0159,Exaggerated narrative style
+8aa1,sample_02_nature,normal,normal,none,65.74,141,129,0.0142,0.0064,Erratic speed/intonation
+e8a7,sample_02_nature,normal,normal,none,50.67,141,167,0.0142,0.0074,
+be48,sample_01_technology,fast,normal,none,43.99,138,188,0.0145,0.0030,
+c2e8,sample_01_technology,normal,normal,dogs,53.04,138,156,0.0145,0.0020,
+02b1,sample_01_technology,normal,normal,music,56.88,138,146,0.0145,0.0020,Suno generation with lyrics
+a15b,sample_01_technology,normal,normal,convo_other,51.67,138,160,0.0145,0.0060,Mandarin background
+7951,sample_01_technology,slow,normal,none,68.67,138,121,0.0217,0.0291,
+265d,sample_01_technology,normal,normal,convo_other,55.56,138,149,0.0217,0.0040,Korean news live
+2ac3,sample_01_technology,normal,normal,transit,52.65,138,157,0.0217,0.0030,Airport background (American)
+6ae0,sample_01_technology,normal,normal,siren,53.39,138,155,0.0290,0.0080,
+d0d0,sample_01_technology,normal,normal,convo_other,54.03,138,153,0.0290,0.0090,Japanese news (live)
